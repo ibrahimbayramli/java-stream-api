@@ -1,1 +1,6 @@
-# java-stream-api
+| Kullanılan Teknoloji |Versiyon|
+|:--------------------:|:----:|
+|Java|17|
+
+
+
