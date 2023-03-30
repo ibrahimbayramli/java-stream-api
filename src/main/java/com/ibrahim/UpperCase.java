@@ -27,6 +27,8 @@ public class UpperCase {
 
     public static Collection<String> mapToUppercase2(String... names){
 
-        return Arrays.asList(names).stream().map(String::toUpperCase).collect(Collectors.toList());
+        return Arrays.asList(names).stream()
+                .map(String::toUpperCase)
+                .collect(Collectors.toList());
     }
 }
